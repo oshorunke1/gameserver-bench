@@ -1,0 +1,8 @@
+{
+  "event": "purchase",
+  "rate": {"max": 5, "window": 1.0},
+  "fields": {
+    "item_id": {"type": "id", "ref": "catalog"},
+    "qty": {"type": "int", "min": 1, "max": 99}
+  }
+}

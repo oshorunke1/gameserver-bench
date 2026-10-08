@@ -1,0 +1,35 @@
+schema_version = "1.3"
+artifacts = []
+
+[task]
+name = "oshorunke1/session-locked-saves"
+description = "Add session locking to a player save service so server hops, crashes, lease expiry and ambiguous write timeouts never lose or roll back progress."
+keywords = ["game-backend", "distributed-locking", "leases", "optimistic-concurrency", "python"]
+[[task.authors]]
+name = "Olushola Shorunke"
+
+[metadata]
+difficulty = "hard"
+category = "backend"
+keywords = ["session locking", "leases", "conditional writes", "player data", "fault tolerance"]
+
+[verifier]
+timeout_sec = 600.0
+collect = []
+
+[verifier.env]
+
+[agent]
+timeout_sec = 1800.0
+
+[environment]
+# "no-network" would be nicer but Docker Desktop kernels lack the nftables
+# support Harbor needs to enforce it, so this stays public for now
+network_mode = "public"
+build_timeout_sec = 600.0
+os = "linux"
+mcp_servers = []
+
+[environment.env]
+
+[solution.env]

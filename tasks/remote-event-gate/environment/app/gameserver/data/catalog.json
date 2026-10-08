@@ -1,0 +1,12 @@
+{
+  "wooden_sword": {"price": 50, "slot": "weapon"},
+  "iron_sword": {"price": 200, "slot": "weapon"},
+  "leather_vest": {"price": 80, "slot": "armor"},
+  "chain_mail": {"price": 300, "slot": "armor"},
+  "slime_pet": {"price": 120, "slot": "pet"},
+  "baby_dragon": {"price": 1500, "slot": "pet"},
+  "health_potion": {"price": 10, "slot": null},
+  "mana_potion": {"price": 12, "slot": null},
+  "gold_key": {"price": 500, "slot": null},
+  "crate_t1": {"price": 75, "slot": null}
+}

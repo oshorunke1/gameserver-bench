@@ -1,0 +1,1062 @@
+{
+ "snapshot_time": 1760042445,
+ "max_skill_gap": 50,
+ "parties": [
+  {
+   "party_id": "P5928",
+   "regions": [
+    "na-east"
+   ],
+   "enqueued_at": 1760042108,
+   "members": [
+    {
+     "player_id": "U00117",
+     "skill": 1737
+    }
+   ]
+  },
+  {
+   "party_id": "P8916",
+   "regions": [
+    "asia-se",
+    "na-west"
+   ],
+   "enqueued_at": 1760041998,
+   "members": [
+    {
+     "player_id": "U00001",
+     "skill": 885
+    }
+   ]
+  },
+  {
+   "party_id": "P7461",
+   "regions": [
+    "na-east"
+   ],
+   "enqueued_at": 1760041327,
+   "members": [
+    {
+     "player_id": "U00021",
+     "skill": 1558
+    }
+   ]
+  },
+  {
+   "party_id": "P2961",
+   "regions": [
+    "na-west"
+   ],
+   "enqueued_at": 1760042436,
+   "members": [
+    {
+     "player_id": "U00092",
+     "skill": 1562
+    }
+   ]
+  },
+  {
+   "party_id": "P3741",
+   "regions": [
+    "na-east"
+   ],
+   "enqueued_at": 1760042007,
+   "members": [
+    {
+     "player_id": "U00042",
+     "skill": 1406
+    },
+    {
+     "player_id": "U00043",
+     "skill": 1324
+    },
+    {
+     "player_id": "U00044",
+     "skill": 1440
+    },
+    {
+     "player_id": "U00045",
+     "skill": 1471
+    }
+   ]
+  },
+  {
+   "party_id": "P3648",
+   "regions": [
+    "na-east"
+   ],
+   "enqueued_at": 1760042056,
+   "members": [
+    {
+     "player_id": "U00047",
+     "skill": 1557
+    }
+   ]
+  },
+  {
+   "party_id": "P2231",
+   "regions": [
+    "na-east",
+    "sa-east"
+   ],
+   "enqueued_at": 1760042393,
+   "members": [
+    {
+     "player_id": "U00022",
+     "skill": 1119
+    }
+   ]
+  },
+  {
+   "party_id": "P4405",
+   "regions": [
+    "na-west"
+   ],
+   "enqueued_at": 1760042139,
+   "members": [
+    {
+     "player_id": "U00091",
+     "skill": 1630
+    }
+   ]
+  },
+  {
+   "party_id": "P9201",
+   "regions": [
+    "eu-west"
+   ],
+   "enqueued_at": 1760042201,
+   "members": [
+    {
+     "player_id": "U00011",
+     "skill": 1659
+    },
+    {
+     "player_id": "U00012",
+     "skill": 1694
+    }
+   ]
+  },
+  {
+   "party_id": "P9144",
+   "regions": [
+    "asia-se"
+   ],
+   "enqueued_at": 1760042056,
+   "members": [
+    {
+     "player_id": "U00046",
+     "skill": 1365
+    }
+   ]
+  },
+  {
+   "party_id": "P4604",
+   "regions": [
+    "na-east",
+    "na-west",
+    "eu-west"
+   ],
+   "enqueued_at": 1760042104,
+   "members": [
+    {
+     "player_id": "U00017",
+     "skill": 1356
+    },
+    {
+     "player_id": "U00018",
+     "skill": 1297
+    }
+   ]
+  },
+  {
+   "party_id": "P8421",
+   "regions": [
+    "na-east",
+    "sa-east"
+   ],
+   "enqueued_at": 1760042423,
+   "members": [
+    {
+     "player_id": "U00064",
+     "skill": 2211
+    },
+    {
+     "player_id": "U00065",
+     "skill": 2302
+    },
+    {
+     "player_id": "U00066",
+     "skill": 2225
+    },
+    {
+     "player_id": "U00067",
+     "skill": 1941
+    },
+    {
+     "player_id": "U00068",
+     "skill": 2015
+    }
+   ]
+  },
+  {
+   "party_id": "P6453",
+   "regions": [
+    "na-west"
+   ],
+   "enqueued_at": 1760042445,
+   "members": [
+    {
+     "player_id": "U00035",
+     "skill": 1029
+    }
+   ]
+  },
+  {
+   "party_id": "P8372",
+   "regions": [
+    "eu-central"
+   ],
+   "enqueued_at": 1760042335,
+   "members": [
+    {
+     "player_id": "U00019",
+     "skill": 1185
+    }
+   ]
+  },
+  {
+   "party_id": "P8002",
+   "regions": [
+    "eu-west"
+   ],
+   "enqueued_at": 1760042076,
+   "members": [
+    {
+     "player_id": "U00032",
+     "skill": 1235
+    }
+   ]
+  },
+  {
+   "party_id": "P3287",
+   "regions": [
+    "eu-central"
+   ],
+   "enqueued_at": 1760042334,
+   "members": [
+    {
+     "player_id": "U00034",
+     "skill": 1808
+    }
+   ]
+  },
+  {
+   "party_id": "P9974",
+   "regions": [
+    "asia-se",
+    "na-west"
+   ],
+   "enqueued_at": 1760042124,
+   "members": [
+    {
+     "player_id": "U00074",
+     "skill": 1557
+    },
+    {
+     "player_id": "U00075",
+     "skill": 1628
+    },
+    {
+     "player_id": "U00076",
+     "skill": 1423
+    },
+    {
+     "player_id": "U00077",
+     "skill": 1414
+    },
+    {
+     "player_id": "U00078",
+     "skill": 1473
+    },
+    {
+     "player_id": "U00079",
+     "skill": 1332
+    }
+   ]
+  },
+  {
+   "party_id": "P4152",
+   "regions": [
+    "eu-west"
+   ],
+   "enqueued_at": 1760042350,
+   "members": [
+    {
+     "player_id": "U00086",
+     "skill": 1886
+    }
+   ]
+  },
+  {
+   "party_id": "P4999",
+   "regions": [
+    "na-east"
+   ],
+   "enqueued_at": 1760042320,
+   "members": [
+    {
+     "player_id": "U00107",
+     "skill": 1934
+    },
+    {
+     "player_id": "U00108",
+     "skill": 1766
+    },
+    {
+     "player_id": "U00109",
+     "skill": 1890
+    }
+   ]
+  },
+  {
+   "party_id": "P2486",
+   "regions": [
+    "sa-east",
+    "na-east"
+   ],
+   "enqueued_at": 1760042207,
+   "members": [
+    {
+     "player_id": "U00025",
+     "skill": 821
+    },
+    {
+     "player_id": "U00026",
+     "skill": 850
+    }
+   ]
+  },
+  {
+   "party_id": "P3862",
+   "regions": [
+    "eu-west"
+   ],
+   "enqueued_at": 1760042315,
+   "members": [
+    {
+     "player_id": "U00024",
+     "skill": 2070
+    }
+   ]
+  },
+  {
+   "party_id": "P6602",
+   "regions": [
+    "na-east",
+    "sa-east"
+   ],
+   "enqueued_at": 1760042428,
+   "members": [
+    {
+     "player_id": "U00048",
+     "skill": 1318
+    },
+    {
+     "player_id": "U00049",
+     "skill": 1341
+    },
+    {
+     "player_id": "U00050",
+     "skill": 1492
+    },
+    {
+     "player_id": "U00051",
+     "skill": 1409
+    },
+    {
+     "player_id": "U00052",
+     "skill": 1241
+    },
+    {
+     "player_id": "U00053",
+     "skill": 1365
+    }
+   ]
+  },
+  {
+   "party_id": "P2492",
+   "regions": [
+    "eu-west",
+    "eu-central",
+    "na-east"
+   ],
+   "enqueued_at": 1760042234,
+   "members": [
+    {
+     "player_id": "U00004",
+     "skill": 1315
+    }
+   ]
+  },
+  {
+   "party_id": "P6231",
+   "regions": [
+    "na-west",
+    "asia-se"
+   ],
+   "enqueued_at": 1760042352,
+   "members": [
+    {
+     "player_id": "U00055",
+     "skill": 1776
+    },
+    {
+     "player_id": "U00056",
+     "skill": 1571
+    },
+    {
+     "player_id": "U00057",
+     "skill": 1573
+    }
+   ]
+  },
+  {
+   "party_id": "P4917",
+   "regions": [
+    "na-east",
+    "na-west",
+    "eu-west"
+   ],
+   "enqueued_at": 1760042056,
+   "members": [
+    {
+     "player_id": "U00093",
+     "skill": 1804
+    },
+    {
+     "player_id": "U00094",
+     "skill": 1829
+    },
+    {
+     "player_id": "U00095",
+     "skill": 1641
+    },
+    {
+     "player_id": "U00096",
+     "skill": 1771
+    }
+   ]
+  },
+  {
+   "party_id": "P7034",
+   "regions": [
+    "eu-central"
+   ],
+   "enqueued_at": 1760042417,
+   "members": [
+    {
+     "player_id": "U00040",
+     "skill": 1555
+    }
+   ]
+  },
+  {
+   "party_id": "P5232",
+   "regions": [
+    "na-east",
+    "na-west",
+    "eu-west"
+   ],
+   "enqueued_at": 1760042366,
+   "members": [
+    {
+     "player_id": "U00073",
+     "skill": 1766
+    }
+   ]
+  },
+  {
+   "party_id": "P4311",
+   "regions": [
+    "na-east",
+    "eu-west"
+   ],
+   "enqueued_at": 1760041883,
+   "members": [
+    {
+     "player_id": "U00058",
+     "skill": 1676
+    },
+    {
+     "player_id": "U00059",
+     "skill": 1817
+    },
+    {
+     "player_id": "U00060",
+     "skill": 1759
+    }
+   ]
+  },
+  {
+   "party_id": "P1329",
+   "regions": [
+    "na-west",
+    "oce"
+   ],
+   "enqueued_at": 1760042338,
+   "members": [
+    {
+     "player_id": "U00061",
+     "skill": 1390
+    },
+    {
+     "player_id": "U00062",
+     "skill": 1578
+    },
+    {
+     "player_id": "U00063",
+     "skill": 1411
+    }
+   ]
+  },
+  {
+   "party_id": "P7763",
+   "regions": [
+    "eu-west",
+    "na-east"
+   ],
+   "enqueued_at": 1760042382,
+   "members": [
+    {
+     "player_id": "U00110",
+     "skill": 1391
+    },
+    {
+     "player_id": "U00111",
+     "skill": 1538
+    },
+    {
+     "player_id": "U00112",
+     "skill": 1455
+    }
+   ]
+  },
+  {
+   "party_id": "P7272",
+   "regions": [
+    "eu-west",
+    "na-east"
+   ],
+   "enqueued_at": 1760042279,
+   "members": [
+    {
+     "player_id": "U00113",
+     "skill": 500
+    }
+   ]
+  },
+  {
+   "party_id": "P7781",
+   "regions": [
+    "na-east",
+    "na-west",
+    "eu-west"
+   ],
+   "enqueued_at": 1760042237,
+   "members": [
+    {
+     "player_id": "U00002",
+     "skill": 1796
+    },
+    {
+     "player_id": "U00003",
+     "skill": 1813
+    }
+   ]
+  },
+  {
+   "party_id": "P9587",
+   "regions": [
+    "na-east",
+    "na-west"
+   ],
+   "enqueued_at": 1760042227,
+   "members": [
+    {
+     "player_id": "U00008",
+     "skill": 1256
+    }
+   ]
+  },
+  {
+   "party_id": "P4440",
+   "regions": [
+    "eu-west",
+    "na-east"
+   ],
+   "enqueued_at": 1760042098,
+   "members": [
+    {
+     "player_id": "U00106",
+     "skill": 1175
+    }
+   ]
+  },
+  {
+   "party_id": "P7174",
+   "regions": [
+    "na-west",
+    "na-east"
+   ],
+   "enqueued_at": 1760042169,
+   "members": [
+    {
+     "player_id": "U00023",
+     "skill": 1744
+    }
+   ]
+  },
+  {
+   "party_id": "P5427",
+   "regions": [
+    "na-east"
+   ],
+   "enqueued_at": 1760042040,
+   "members": [
+    {
+     "player_id": "U00033",
+     "skill": 1249
+    }
+   ]
+  },
+  {
+   "party_id": "P6541",
+   "regions": [
+    "asia-se"
+   ],
+   "enqueued_at": 1760041865,
+   "members": [
+    {
+     "player_id": "U00054",
+     "skill": 1721
+    }
+   ]
+  },
+  {
+   "party_id": "P2016",
+   "regions": [
+    "na-east"
+   ],
+   "enqueued_at": 1760042190,
+   "members": [
+    {
+     "player_id": "U00104",
+     "skill": 1968
+    },
+    {
+     "player_id": "U00105",
+     "skill": 1963
+    }
+   ]
+  },
+  {
+   "party_id": "P9161",
+   "regions": [
+    "eu-west",
+    "eu-central"
+   ],
+   "enqueued_at": 1760041947,
+   "members": [
+    {
+     "player_id": "U00097",
+     "skill": 1429
+    },
+    {
+     "player_id": "U00098",
+     "skill": 1590
+    },
+    {
+     "player_id": "U00099",
+     "skill": 1399
+    },
+    {
+     "player_id": "U00100",
+     "skill": 1484
+    },
+    {
+     "player_id": "U00101",
+     "skill": 1577
+    }
+   ]
+  },
+  {
+   "party_id": "P5546",
+   "regions": [
+    "na-east"
+   ],
+   "enqueued_at": 1760042206,
+   "members": [
+    {
+     "player_id": "U00027",
+     "skill": 1132
+    }
+   ]
+  },
+  {
+   "party_id": "P6900",
+   "regions": [
+    "na-east",
+    "na-west"
+   ],
+   "enqueued_at": 1760041799,
+   "members": [
+    {
+     "player_id": "U00020",
+     "skill": 1380
+    }
+   ]
+  },
+  {
+   "party_id": "P3062",
+   "regions": [
+    "na-west",
+    "asia-se"
+   ],
+   "enqueued_at": 1760042441,
+   "members": [
+    {
+     "player_id": "U00080",
+     "skill": 1547
+    },
+    {
+     "player_id": "U00081",
+     "skill": 1622
+    },
+    {
+     "player_id": "U00082",
+     "skill": 1477
+    },
+    {
+     "player_id": "U00083",
+     "skill": 1682
+    },
+    {
+     "player_id": "U00084",
+     "skill": 1535
+    },
+    {
+     "player_id": "U00085",
+     "skill": 1499
+    }
+   ]
+  },
+  {
+   "party_id": "P9247",
+   "regions": [
+    "na-west"
+   ],
+   "enqueued_at": 1760042389,
+   "members": [
+    {
+     "player_id": "U00095",
+     "skill": 1641
+    }
+   ]
+  },
+  {
+   "party_id": "P9670",
+   "regions": [
+    "eu-central",
+    "eu-west"
+   ],
+   "enqueued_at": 1760041262,
+   "members": [
+    {
+     "player_id": "U00087",
+     "skill": 1876
+    },
+    {
+     "player_id": "U00088",
+     "skill": 1947
+    },
+    {
+     "player_id": "U00089",
+     "skill": 1782
+    },
+    {
+     "player_id": "U00090",
+     "skill": 2015
+    }
+   ]
+  },
+  {
+   "party_id": "P4538",
+   "regions": [
+    "eu-west",
+    "eu-central"
+   ],
+   "enqueued_at": 1760042119,
+   "members": [
+    {
+     "player_id": "U00102",
+     "skill": 1282
+    }
+   ]
+  },
+  {
+   "party_id": "P2517",
+   "regions": [
+    "asia-se"
+   ],
+   "enqueued_at": 1760042424,
+   "members": [
+    {
+     "player_id": "U00013",
+     "skill": 1507
+    },
+    {
+     "player_id": "U00014",
+     "skill": 1522
+    },
+    {
+     "player_id": "U00015",
+     "skill": 1702
+    },
+    {
+     "player_id": "U00016",
+     "skill": 1610
+    }
+   ]
+  },
+  {
+   "party_id": "P5440",
+   "regions": [
+    "eu-west"
+   ],
+   "enqueued_at": 1760042138,
+   "members": [
+    {
+     "player_id": "U00103",
+     "skill": 1742
+    }
+   ]
+  },
+  {
+   "party_id": "P5070",
+   "regions": [
+    "eu-west",
+    "na-east"
+   ],
+   "enqueued_at": 1760042225,
+   "members": [
+    {
+     "player_id": "U00005",
+     "skill": 1381
+    }
+   ]
+  },
+  {
+   "party_id": "P7300",
+   "regions": [
+    "na-east"
+   ],
+   "enqueued_at": 1760041807,
+   "members": [
+    {
+     "player_id": "U00030",
+     "skill": 1391
+    }
+   ]
+  },
+  {
+   "party_id": "P7549",
+   "regions": [
+    "asia-se"
+   ],
+   "enqueued_at": 1760042010,
+   "members": [
+    {
+     "player_id": "U00088",
+     "skill": 1947
+    }
+   ]
+  },
+  {
+   "party_id": "P8304",
+   "regions": [
+    "asia-se",
+    "oce",
+    "na-west"
+   ],
+   "enqueued_at": 1760042265,
+   "members": [
+    {
+     "player_id": "U00041",
+     "skill": 1285
+    }
+   ]
+  },
+  {
+   "party_id": "P8075",
+   "regions": [
+    "na-west",
+    "asia-se"
+   ],
+   "enqueued_at": 1760042414,
+   "members": [
+    {
+     "player_id": "U00115",
+     "skill": 1375
+    },
+    {
+     "player_id": "U00116",
+     "skill": 1220
+    }
+   ]
+  },
+  {
+   "party_id": "P6112",
+   "regions": [
+    "oce"
+   ],
+   "enqueued_at": 1760041752,
+   "members": [
+    {
+     "player_id": "U00114",
+     "skill": 1463
+    }
+   ]
+  },
+  {
+   "party_id": "P1357",
+   "regions": [
+    "na-west"
+   ],
+   "enqueued_at": 1760042343,
+   "members": [
+    {
+     "player_id": "U00069",
+     "skill": 1033
+    },
+    {
+     "player_id": "U00070",
+     "skill": 1152
+    },
+    {
+     "player_id": "U00071",
+     "skill": 936
+    },
+    {
+     "player_id": "U00072",
+     "skill": 958
+    }
+   ]
+  },
+  {
+   "party_id": "P3084",
+   "regions": [
+    "eu-central",
+    "eu-west"
+   ],
+   "enqueued_at": 1760042401,
+   "members": [
+    {
+     "player_id": "U00038",
+     "skill": 1110
+    }
+   ]
+  },
+  {
+   "party_id": "P1528",
+   "regions": [
+    "eu-west"
+   ],
+   "enqueued_at": 1760042278,
+   "members": [
+    {
+     "player_id": "U00039",
+     "skill": 1321
+    }
+   ]
+  },
+  {
+   "party_id": "P7966",
+   "regions": [
+    "eu-west"
+   ],
+   "enqueued_at": 1760042055,
+   "members": [
+    {
+     "player_id": "U00006",
+     "skill": 1120
+    },
+    {
+     "player_id": "U00007",
+     "skill": 1237
+    },
+    {
+     "player_id": "U00008",
+     "skill": 1256
+    },
+    {
+     "player_id": "U00009",
+     "skill": 1347
+    },
+    {
+     "player_id": "U00010",
+     "skill": 1255
+    }
+   ]
+  },
+  {
+   "party_id": "P8754",
+   "regions": [
+    "na-east",
+    "eu-west"
+   ],
+   "enqueued_at": 1760041874,
+   "members": [
+    {
+     "player_id": "U00036",
+     "skill": 2175
+    },
+    {
+     "player_id": "U00037",
+     "skill": 2015
+    }
+   ]
+  },
+  {
+   "party_id": "P9025",
+   "regions": [
+    "eu-west",
+    "na-east"
+   ],
+   "enqueued_at": 1760042085,
+   "members": [
+    {
+     "player_id": "U00028",
+     "skill": 1506
+    },
+    {
+     "player_id": "U00029",
+     "skill": 1429
+    }
+   ]
+  },
+  {
+   "party_id": "P1002",
+   "regions": [
+    "eu-central"
+   ],
+   "enqueued_at": 1760041824,
+   "members": [
+    {
+     "player_id": "U00031",
+     "skill": 1169
+    }
+   ]
+  }
+ ]
+}

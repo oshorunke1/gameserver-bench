@@ -1,0 +1,8 @@
+{
+  "event": "equip",
+  "rate": {"max": 10, "window": 1.0},
+  "fields": {
+    "slot": {"type": "enum", "values": ["weapon", "armor", "pet"]},
+    "item_id": {"type": "id", "ref": "owned"}
+  }
+}

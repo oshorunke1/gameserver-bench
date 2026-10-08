@@ -1,0 +1,8 @@
+{
+  "event": "chat",
+  "rate": {"max": 3, "window": 2.0},
+  "fields": {
+    "channel": {"type": "enum", "values": ["global", "team"]},
+    "text": {"type": "string", "min_len": 1, "max_len": 200, "printable": true}
+  }
+}

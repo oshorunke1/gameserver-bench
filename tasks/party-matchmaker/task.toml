@@ -1,0 +1,26 @@
+schema_version = "1.3"
+
+[task]
+name = "oshorunke1/party-matchmaker"
+description = "Form 6v6 matches from a queue snapshot: parties stay together, regions respected, skill balanced, longest waiters first."
+keywords = ["matchmaking", "optimization", "game-backend", "python"]
+
+[[task.authors]]
+name = "Olushola Shorunke"
+
+[metadata]
+difficulty = "hard"
+category = "game-backend"
+keywords = ["matchmaking", "combinatorial-optimization", "branch-and-bound", "constraints"]
+
+[verifier]
+timeout_sec = 900.0
+
+[agent]
+timeout_sec = 3600.0
+
+[environment]
+build_timeout_sec = 600.0
+network_mode = "public"
+cpus = 1
+memory_mb = 2048
