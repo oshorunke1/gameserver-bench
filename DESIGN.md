@@ -13,13 +13,13 @@ tasks/<slug>/
   README.md            for humans: what the task tests, why it is hard, what failure modes it catches. No answers.
 
 ## Rules every task must follow
-1. Graded on the result, never the method. Tests check behaviour or output files, not which functions were called.
+1. Graded on results. Tests check behaviour and output files only.
 2. Oracle passes (reward 1.0) and a do-nothing agent fails (reward 0.0). Verified with `harbor run -p tasks/<slug> --agent oracle` and `--agent nop`.
 3. Hard to shortcut. Hidden test inputs differ from anything in /app, so hardcoding visible examples fails. Data generators use fixed seeds so results are deterministic.
 4. Deterministic. No wall-clock or network dependence in grading. Concurrency tasks use deterministic schedulers or enough repetitions to make flakiness impossible, and must pass the oracle 3 times in a row.
 5. Python 3.12 for task code and verifiers.
 6. Instructions are short and precise, around 150 to 400 words.
-7. Realistic: each task should feel like a real ticket on a game backend team.
+7. Realistic: each task should read like a ticket a game backend team would pick up.
 
 ## Tasks
 | slug | summary |

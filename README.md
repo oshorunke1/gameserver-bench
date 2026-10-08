@@ -2,7 +2,7 @@
 
 Agentic coding tasks from multiplayer game backend engineering, packaged for [Harbor](https://github.com/laude-institute/harbor).
 
-Each task reads like a real ticket on a live game's backend team: an item dupe exploit, lost player saves, a broken economy log, a matchmaker, a hostile client, a desyncing simulation. These are the bugs that cost real games their players, and they're hard for coding agents for the same reasons they're hard for people. The invariants are subtle, the failures only show up under concurrency or hostile input, and the obvious fix passes the visible tests while leaving the real hole open.
+Each task reads like a ticket on a live game's backend team: an item dupe exploit, lost player saves, a broken economy log, a matchmaker, a hostile client, a desyncing simulation. These are the bugs that cost live games their players, and they're hard for coding agents for the same reasons they're hard for people. The invariants are subtle and the failures only show up under concurrency or hostile input. The obvious fix passes the visible tests and leaves the hole open.
 
 ## Tasks
 
@@ -17,10 +17,10 @@ Each task reads like a real ticket on a live game's backend team: an item dupe e
 
 ## Design rules
 
-- **Graded on the result, never the method.** Verifiers check behaviour and outputs only.
-- **Hidden inputs.** Verifiers use fresh seeded data, worlds and schedules that differ from anything in `/app`, so hardcoding examples fails.
-- **Deterministic.** Simulated clocks and seeded generators. No wall clock or network in grading.
-- **Checked references.** Each reference solution was cross-checked against an independent model or generator, and deliberately broken variants were confirmed to fail.
+- Graded on results. Verifiers check behaviour and outputs only.
+- Hidden inputs. Verifiers use fresh seeded data, worlds and schedules that differ from anything in `/app`, so hardcoding examples fails.
+- Deterministic. Simulated clocks and seeded generators. No wall clock or network in grading.
+- Checked references. Each reference solution was cross-checked against an independent model or generator, and deliberately broken variants were confirmed to fail.
 
 More detail is in [DESIGN.md](DESIGN.md) and each task's README.
 

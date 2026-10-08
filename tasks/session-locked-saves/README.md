@@ -12,10 +12,10 @@ expiry and flaky store writes.
 - Using conditional writes correctly so two servers can never both win a race for the same player.
 - Telling "my lease ran out but nobody took it" apart from "someone took my player", and refusing stale writes in the second case only.
 - Restarted processes reusing a `server_id` taking over their own players while the old process is shut out.
-- Resolving ambiguous write timeouts by reading back, instead of failing a write that actually landed or tripping over its own version bump.
+- Resolving ambiguous write timeouts by reading back, so a write that landed counts as a success and its own version bump doesn't trip the retry.
 - A precise retry budget that leaves the store and the lock untouched when it gives up.
 
-## How it is graded
+## How it's graded
 
 The verifier swaps in pristine copies of the shared modules and drives the
 agent's `SessionStore` through hidden scenarios on the simulated clock:
@@ -26,7 +26,7 @@ restarts, zombie calls and fault bursts) and compares every outcome and the
 final stored data with a small model of the written contract. Only
 observable behaviour counts. The record format is free.
 
-## Why it is hard
+## Why it's hard
 
 The happy path is easy and the visible examples barely touch the failure
 modes. The traps are the interactions: a timeout that landed bumps the

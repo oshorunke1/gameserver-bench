@@ -14,17 +14,17 @@ once across several service instances that share one versioned store.
   contract offers.
 - Idempotency that survives concurrent replays on different servers, plus
   detecting a reused request id with a different payload.
-- Input validation that's easy to get subtly wrong when an offer can list the
-  same item more than once.
+- Input validation that's easy to get wrong when an offer can list the same
+  item more than once.
 - Slot limit accounting that reflects what's given away as well as received.
-- Failure handling: an outage must not apply anything and must not poison
-  later retries of the same request.
+- Failure handling: an outage applies nothing and leaves later retries of the
+  same request free to succeed.
 
 ## Why it's hard
 
 Several defects interact. Fixing the obvious race inside one process still
-leaves cross-server dupes, and fixing the replay path still leaves the
-validation dupes. Rejecting on any write conflict looks safe but breaks
+leaves cross-server dupes. The validation dupes survive a fix to the replay
+path too. Rejecting on any write conflict looks safe but breaks
 liveness, which the verifier checks with trades that are all valid at once.
 
 ## How it's graded

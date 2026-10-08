@@ -4,7 +4,7 @@ A small lockstep RTS sim (spawning, an economy with a shared mine, movement, aut
 
 ## What it tests
 - Spotting nondeterminism that hides in ordinary looking Python: iteration order, hashing, global state, timing, and float math.
-- Reading a design doc and restoring the documented processing order instead of picking any order that happens to be stable.
+- Reading a design doc and restoring the documented processing order. An order that happens to be stable still fails when it differs from the doc.
 - Fixing several independent bugs. Each one alone is enough to fail grading, so a partial fix scores 0.
 
 ## Why it's hard
@@ -15,6 +15,6 @@ The sealed verifier generates unseen matches from fixed seeds. Each match runs o
 
 ## Failure modes it catches
 - Fixing only the cross process issues and missing in process state that leaks between matches.
-- Sorting things in an order that is stable but not the documented one.
+- Sorting things in a stable order that differs from the documented one.
 - "Fixing" desyncs by removing randomness, cooldowns or combat, or by weakening the hash.
-- Swapping the hash for something cheaper that is not the documented sha256 format.
+- Swapping the documented sha256 format for a cheaper hash.
